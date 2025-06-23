@@ -4,6 +4,7 @@ This lab is focused on analyzing phishing emails in a secure, controlled environ
 
 **Email Analysis Setup**
 Install an Email Client
+
 Companies typically use email clients like Outlook or Gmail can be used, I used Mozilla Thunderbird because it is free, open-source, and works well on Ubuntu.
 
 **Installed Thunderbird on your Ubuntu VM**:
