@@ -34,6 +34,14 @@ Set "Attached to:" → NAT
 
 After that, re-ran the install command successfully.
 
+
+
+**Added Sublime Text**
+-Downloaded linux sublime text from: https://www.sublimetext.com/docs/linux_repositories.html
+
+![Screenshot 2025-06-22 210520](https://github.com/user-attachments/assets/942d6c75-3375-4a08-a461-f94ebeb04d01)
+
+
 **Phishing Attack Techniques**
 https://bitly.com
 https://unshorten.it
@@ -42,13 +50,3 @@ https://github.com/elceef/dnstwist
 https://dnstwist.it/
 https://dnstwister.report/
 https://phishtank.org/
-
-
-
-
-
-
-**Added Sublime Text**
--Downloaded linux sublime text from: https://www.sublimetext.com/docs/linux_repositories.html
-
-![Screenshot 2025-06-22 210520](https://github.com/user-attachments/assets/942d6c75-3375-4a08-a461-f94ebeb04d01)
