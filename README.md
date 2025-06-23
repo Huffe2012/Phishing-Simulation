@@ -19,6 +19,7 @@ While installing Thunderbird, the following error occurred:
 
 Failed to fetch http://us.archive.ubuntu.com/ubuntu/pool/main/t/thunderbird/thunderbird_1snap1-0ubuntu3_amd64.deb
 Temporary failure resolving 'us.archive.ubuntu.com'
+
 **Root Cause**:
 The VM was not connected to the internet due to incorrect network settings.
 
