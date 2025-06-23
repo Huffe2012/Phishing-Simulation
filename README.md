@@ -8,7 +8,7 @@ Companies typically use email clients like Outlook or Gmail can be used, I used 
 
 **Installed Thunderbird on your Ubuntu VM**:
 
-sudo apt install thunderbird
+~$ sudo apt install thunderbird
 ![Screenshot 2025-06-22 210202](https://github.com/user-attachments/assets/9a379cff-38b9-43a6-8b1f-d437696e8b6f)
 
 
