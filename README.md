@@ -9,6 +9,7 @@ Companies typically use email clients like Outlook or Gmail can be used, I used 
 **Installed Thunderbird on your Ubuntu VM**:
 
 sudo apt install thunderbird
+![Screenshot 2025-06-22 210202](https://github.com/user-attachments/assets/9a379cff-38b9-43a6-8b1f-d437696e8b6f)
 
 
 **Lessons Learned**
@@ -30,3 +31,8 @@ Set "Attached to:" → NAT
 
 After that, re-ran the install command successfully.
 
+
+**Added Sublime Text**
+-Downloaded linux sublime text from: https://www.sublimetext.com/docs/linux_repositories.html
+
+![Screenshot 2025-06-22 210520](https://github.com/user-attachments/assets/942d6c75-3375-4a08-a461-f94ebeb04d01)
