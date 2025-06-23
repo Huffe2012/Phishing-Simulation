@@ -43,10 +43,17 @@ After that, re-ran the install command successfully.
 
 
 **Phishing Attack Techniques**
+
 https://bitly.com
+
 https://unshorten.it
+
 https://www.irongeek.com/homoglyph-attack-generator.php
+
 https://github.com/elceef/dnstwist
+
 https://dnstwist.it/
+
 https://dnstwister.report/
+
 https://phishtank.org/
