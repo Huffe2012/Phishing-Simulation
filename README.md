@@ -1,5 +1,5 @@
 # Phishing-Simulation
-## 🧪Phishing Lab##
+## 🧪Phishing Lab
 
 This lab is focused on analyzing phishing emails in a secure, controlled environment using a Linux-based virtual machine. Tools like Mozilla Thunderbird and Sublime Text are installed to inspect and work with suspicious email messages.
 
