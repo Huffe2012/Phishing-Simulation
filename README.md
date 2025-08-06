@@ -27,26 +27,27 @@ This lab was designed to explore how phishing attacks work and how effective the
 
 Registered a phishing-like domain via NameCheap:
 
-<img width="1156" height="279" alt="Screenshot 2025-07-13 150627" src="https://github.com/user-attachments/assets/61772da7-2046-4405-85cc-e737e763ef27" />
+<img width="1572" height="749" alt="Screenshot 2025-07-13 150637" src="https://github.com/user-attachments/assets/758b3cae-0f85-4086-a1e0-5149d9fe124b" />
 
 
 **💻 Kali Linux & GoPhish on DigitalOcean**
 
 Deployed a Kali Linux droplet via DigitalOcean
 
+<img width="1735" height="801" alt="Screenshot 2025-07-13 125000" src="https://github.com/user-attachments/assets/bf533343-f412-4d4f-8034-09713c423445" />
+
+
 Installed and configured GoPhish
 
 Built and launched the phishing campaign through the GoPhish UI
-<img width="1735" height="801" alt="Screenshot 2025-07-13 125000" src="https://github.com/user-attachments/assets/e5bfb967-bc6c-4ecf-b5af-b4614a498970" />
 
-<img width="1243" height="763" alt="Screenshot 2025-07-13 170912" src="https://github.com/user-attachments/assets/4b5454d8-ead4-471f-abf9-c073be1b33f9" />
+<img width="1518" height="696" alt="Screenshot 2025-07-13 171008" src="https://github.com/user-attachments/assets/939ecff7-6ea3-438d-b63c-d8d748390471" />
 
-<img width="1518" height="696" alt="Screenshot 2025-07-13 171008" src="https://github.com/user-attachments/assets/f75f7310-e1da-4424-9134-bb1473faec76" />
+<img width="1772" height="792" alt="Screenshot 2025-07-29 140853" src="https://github.com/user-attachments/assets/45c9d149-b210-4522-8a7c-4632db9ca920" />
 
-<img width="1220" height="880" alt="Screenshot 2025-07-29 122833" src="https://github.com/user-attachments/assets/910fce5a-4ea2-4162-b212-fde34d2e7e6e" />
+<img width="1220" height="880" alt="Screenshot 2025-07-29 122833" src="https://github.com/user-attachments/assets/e93e2353-9d16-4f89-b6a7-ba9de7f7e947" />
 
-<img width="1615" height="959" alt="Screenshot 2025-07-29 143734" src="https://github.com/user-attachments/assets/8a689731-914c-4d7b-9296-986aa5bb451f" />
-
+<img width="1615" height="959" alt="Screenshot 2025-07-29 143734" src="https://github.com/user-attachments/assets/516ed812-d87a-457e-a41c-af824924d44c" />
 
 **🛡️ Post-Click Education Page**
 
@@ -54,7 +55,7 @@ After clicking the phishing link, users were redirected to a Wix page that revea
 
 **🔗 [View Page Here](https://admin95997.wixsite.com/bigphish)**
 
-<img width="1898" height="865" alt="Screenshot 2025-07-29 143830" src="https://github.com/user-attachments/assets/ef267ab6-789c-4d43-a2e2-14473e00b878" />
+<img width="1905" height="846" alt="Screenshot 2025-07-29 150532" src="https://github.com/user-attachments/assets/8b18fb67-c5cb-4167-82d1-c1d1d714e246" />
 
 
 **💡 What I Learned**
