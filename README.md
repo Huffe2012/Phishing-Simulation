@@ -1,7 +1,4 @@
 
-**[Phishing Simulation W/ GoPhish](https://github.com/Huffe2012/Email-Analysis)**
-
-
 **🎣 Go Phish Simulation Lab**
 
 This lab was designed to explore how phishing attacks work and how effective they can be, by simulating a real-world phishing campaign in a safe and ethical environment. Using Kali Linux and GoPhish, I created and launched a campaign targeting 21 of my close friends and family members to raise awareness.
